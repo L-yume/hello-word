@@ -1,2 +1,5 @@
 # hello-word
-Just another repository
+
+Hey guys!
+
+This is L-yume's repository.Welcome!
